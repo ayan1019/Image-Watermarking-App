@@ -29,7 +29,7 @@ Once you have customized your watermark, you can save the watermarked image by c
 ## Installation
 1. Clone the repository: 
 ```
-git clone https://github.com/Veluthil/Image-Watermarking-App.git
+https://github.com/ayan1019/Image-Watermarking-App.git
 ```
 2. Change directory into the project folder
 3. Create virtual environment: 
